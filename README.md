@@ -9,8 +9,8 @@
 
 ---
 
-- 🔭 Atualmente trabalhando em: [My Home](https://github.com/gevolgdev/myhome_api)  
-- 🌱 Aprendendo NestJS  
+- 🔭 Atualmente trabalhando em: [Crys Pinelli Website](https://github.com/gevolgdev/cryspinelli-website)  
+- 🌱 Aprendendo Remix, GCloud e Docker
 - 💬 Me pergunte sobre: **React Native, Node.js e SaaS**  
 - 👨‍💻 Portfólio de projetos: [github.com/gevolgdev](https://github.com/gevolgdev)  
 - 📫 Contato: **gevolgdev@gmail.com**
