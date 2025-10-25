@@ -9,8 +9,7 @@
 
 ---
 
-- 🔭 Atualmente trabalhando em: [Crys Pinelli Website](https://github.com/gevolgdev/cryspinelli-website)  
-- 🌱 Aprendendo Remix, GCloud e Docker
+- 🌱 Estudos atuais: Next, GCloud e Docker
 - 💬 Me pergunte sobre: **React Native, Node.js e SaaS**  
 - 👨‍💻 Portfólio de projetos: [github.com/gevolgdev](https://github.com/gevolgdev)  
 - 📫 Contato: **gevolgdev@gmail.com**
