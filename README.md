@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋, eu sou o Ricardo Pinelli <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></h1>
+<h1 align="center">Olá 👋, eu sou o Ricardo Pinelli</h1>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> -->
 <h3 align="center">Desenvolvedor Full Stack focado em resolver problemas com tecnologia.</h3>
 
 <p align="center">
